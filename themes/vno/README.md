@@ -11,7 +11,7 @@ hexo-new-vno
 
 ![主页封面](source/images/show/home.png)
 
-![文章列表](source/images/show/list.jpeg)
+![文章列表](source/images/show/list.png)
 
 ## 封面
 
@@ -106,7 +106,7 @@ date: 2016-03-03 10:46:46
 tags: 分类
 ---
 ```
-![百度统计](source/images/show/article.jpeg)
+![百度统计](source/images/show/article.png)
 
 ### 数学公式支持
 
